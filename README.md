@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there I'm Changyu Park👋
+
+🎓 **Undergraduate Student in Sociology & Media at Kyung Hee University,Seoul**
+
+### 💡 Interests
+- 🤖 **AI for Social Good**
+- 📊 **Computational Social Science**
+- 🌐 **Sociology of Information**
 
 <!--
 **ppck75/ppck75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
