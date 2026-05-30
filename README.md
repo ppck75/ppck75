@@ -1,6 +1,6 @@
-## Hi there I'm Changyu Park👋
+## Hi there, I'm Changyu Park👋
 
-### 🎓 **Undergraduate Student in Sociology & Media at Kyung Hee University,Seoul**
+### 🎓 Undergraduate Student in Sociology & Media at Kyung Hee University,Seoul
 
 ### 💡 Interests
 - 🤖 **AI for Social Good**
