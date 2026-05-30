@@ -1,4 +1,4 @@
-## Hi there, I'm Changyu Park👋
+## Hi there👋 I'm Changyu Park
 
 ### 🎓 Undergraduate Student in Sociology & Media at Kyung Hee University, Seoul
 
