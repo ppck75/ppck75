@@ -5,6 +5,7 @@
 #### 🎓 Undergraduate Student in Sociology & Media at Kyung Hee University, Seoul
 
 #### 💡 Interests
+- 📈 **Data Journalism**
 - 🤖 **AI for Social Good**
 - 📊 **Computational Social Science**
 - 🌐 **Sociology of Information Technology**
