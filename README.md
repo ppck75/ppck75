@@ -10,6 +10,9 @@
 - 📊 **Computational Social Science**
 - 🌐 **Sociology of Information Technology**
 
+#### 💻 Websites
+- Tech Blog: https://ppck75.github.io/Data_Science_Blog/
+- Portfolio(Notion): https://www.notion.so/PORTFOLIO-8f2d5ac100bf8208aa59816e20fe7b87?source=copy_link
   
 <!--
 **ppck75/ppck75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
