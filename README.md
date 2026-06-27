@@ -5,15 +5,15 @@
 #### 🎓 Undergraduate Student in Sociology & Media at Kyung Hee University, Seoul
 
 #### 💡 Interests
-##### Substantive
-- ⚖️ **Political Communication**
-- 📈 **Data Journalism**
-- 🤖 **AI for Social Good**
-- 🌐 **Sociology of Information Technology**
+  ##### Substantive
+  - ⚖️ **Political Communication**
+  - 📈 **Data Journalism**
+  - 🤖 **AI for Social Good**
+  - 🌐 **Sociology of Information Technology**
   
-##### Methodology
-- 📊 **Computational Social Science**
-- 🧠 **Natural Language Processing**
+  ##### Methodology
+  - 📊 **Computational Social Science**
+  - 🧠 **Natural Language Processing**
 
 #### 💻 Websites
 <a href="https://ppck75.github.io/Data_Science_Blog/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
