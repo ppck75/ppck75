@@ -1,4 +1,4 @@
-## Hi there 👋 
+## 👋 Hi there 
 
 #### 👨‍💻 Changyu Park | 박찬규
 
