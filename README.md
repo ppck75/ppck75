@@ -4,6 +4,7 @@
 
 #### 🎓 Undergraduate Student in Sociology & Media at Kyung Hee University, Seoul
 
+
 #### 💡 Interests
    ##### **Substantive**
   - ⚖️ **Political Communication**
