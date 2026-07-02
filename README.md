@@ -1,17 +1,17 @@
-### 👋 Hi there 
+## 👋 Hi there 
 
-#### 👨‍💻 Changyu Park | 박찬규
+### 👨‍💻 Changyu Park | 박찬규
 
-#### 🎓 Undergraduate Student in Sociology & Media at Kyung Hee University, Seoul
+### 🎓 Undergraduate Student in Sociology & Media at Kyung Hee University, Seoul
 
 ## 💡 Interests
-   #### Substantive
+   ### Substantive
   - ⚖️ **Political Communication**
   - 📈 **Data Journalism**
   - 🤖 **AI for Social Good**
   - 🌐 **Sociology of Information Technology**
   
-   #### Methodology
+   ### Methodology
   - 📊 **Computational Social Science**
   - 🧠 **Natural Language Processing**
 
