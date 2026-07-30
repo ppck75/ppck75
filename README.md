@@ -9,7 +9,7 @@
   - ⚖️ **Political Communication**
   - 📈 **Data Journalism**
   - 🤖 **AI for Social Good**
-  - 🌐 **Sociology of Information Technology**
+  - 🌐 **Sociology of Information Technology**  
   
    ### Methodology
   - 📊 **Computational Social Science**
