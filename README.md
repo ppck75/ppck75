@@ -1,8 +1,8 @@
 ## 👋 Hi there 
 
-### 👨‍💻 Changyu Park | 박찬규  
+### Changyu Park | 박찬규  
 
-### 🎓 Undergraduate Student in Sociology & Media at Kyung Hee University, Seoul
+### Undergraduate Student in Sociology & Media at Kyung Hee University, Seoul
 
 
 ## 💡 Interests
