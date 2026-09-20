@@ -18,9 +18,6 @@
 
 ## 💻 Websites
 <a href="https://ppck75.github.io/Data_Science_Blog/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
-<!-- 이 부분은 화면에 보이지 않는 주석입니다. -->
-<a href="https://www.notion.so/PORTFOLIO-8f2d5ac100bf8208aa59816e20fe7b87?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Notion_Portfolio-2383E2?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-<!-- 이 부분은 화면에 보이지 않는 주석입니다. -->
 <a href="https://share.streamlit.io/user/ppck75" target="_blank"><img src="https://img.shields.io/badge/Streamlit_Profile-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/></a>
 <a href="https://huggingface.co/Cchangyu/spaces" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
 
@@ -38,4 +35,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://www.notion.so/PORTFOLIO-8f2d5ac100bf8208aa59816e20fe7b87?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Notion_Portfolio-2383E2?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 -->
