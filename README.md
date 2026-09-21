@@ -18,10 +18,9 @@
 
 ## 💻 Websites
 <a href="https://ppck75.github.io/Data_Science_Blog/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ppck75/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cache=clear"/></a>
+<a href="https://www.linkedin.com/in/ppck75/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://share.streamlit.io/user/ppck75" target="_blank"><img src="https://img.shields.io/badge/Streamlit_Profile-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/></a>
 <a href="https://huggingface.co/Cchangyu/spaces" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
-
 
 <!--
 **ppck75/ppck75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
