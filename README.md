@@ -18,9 +18,9 @@
 
 ## 💻 Websites
 <p>
-<a href="https://ppck75.github.io/Data_Science_Blog/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-121013?style=for-the-badge&logo=github&logoColor=white" alt="Tech Blog"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ppck75/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://share.streamlit.io/user/ppck75" target="_blank"><img src="https://img.shields.io/badge/Streamlit_Profile-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Profile"/></a>&nbsp;&nbsp;
+<a href="https://ppck75.github.io/Data_Science_Blog/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-121013?style=for-the-badge&logo=github&logoColor=white" alt="Tech Blog"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/ppck75/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://share.streamlit.io/user/ppck75" target="_blank"><img src="https://img.shields.io/badge/Streamlit_Profile-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Profile"/></a>&nbsp;
 <a href="https://huggingface.co/Cchangyu/spaces" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/></a>
 </p>
 
