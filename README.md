@@ -15,7 +15,7 @@
    ### Methodology
   - 📊 **Computational Social Science**
   - 🧠 **Natural Language Processing**
-
+  - 📈 **Statistical Modeling**
 ## 💻 Websites
 <p>
 <a href="https://ppck75.github.io/Data_Science_Blog/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-121013?style=for-the-badge&logo=github&logoColor=white" alt="Tech Blog"/></a>&nbsp;
