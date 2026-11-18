@@ -8,9 +8,9 @@
 ## 💡 Interests
    ### Substantive
   - ⚖️ **Political Communication**
-  - 📈 **Data Journalism**
-  - 🤖 **AI for Social Good**
-  - 🌐 **Sociology of Information Technology**  
+  - 📜 **Comparative Public Policy & AI Governance**
+  - 🌐 **Policy Networks & Policy Diffusion**
+  - 🤖 **AI for Social Good**  
   
    ### Methodology
   - 📊 **Computational Social Science**
